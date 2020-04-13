@@ -126,3 +126,40 @@ I have now cancelled my credit card, but I had used that card to make a future f
 
 7. Why has it taken so long for you to announce this?
 
+## Equifax 2017 
+
+1. What happened?
+
+2. When did the company learn of the incident it announced on September 7, 2017?
+
+3. Who and how many people are affected?
+
+4. Why are some consumers being notified by mail versus others?
+
+5. What information may have been impacted?
+
+6. Is this a new cybersecurity incident?
+
+7. Why was this information not disclosed in the initial announcements?
+
+8. On October 2, 2017, Equifax (and its independent cybersecurity investigator Mandiant) announced the investigation was complete. Was that accurate?
+
+9. Are Equifax’s core consumer or commercial credit reporting databases impacted?
+
+10. Is the issue contained?
+
+11. What was the vulnerability?
+
+12. What are you doing to prevent this from happening again?
+
+13. What steps should I immediately take?
+
+14. Why am I learning about this incident through the media? Why didn’t Equifax notify me directly?
+
+15. I recently heard about the new credit report lock service from Equifax. What does this service do?
+
+16. Will I automatically be enrolled in the free credit report lock service after one year if I'm currently enrolled in TrustedID Premier?
+
+17. What is the difference between a credit report lock and a security freeze?
+
+18. If my Equifax credit report is locked or frozen, who can access it?
