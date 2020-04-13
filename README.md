@@ -30,7 +30,7 @@ Does this affect Executive Club accounts in any way? i.e. missing Avios/ Tier Po
 
 I received an email about the data theft, however I only cancelled a booking during this time – will I be affected?
 
-## What should I do if I think I am affected?
+### What should I do if I think I am affected?
 
 Should I call my bank or cancel my credit cards?
 
